@@ -1,0 +1,5 @@
+﻿  Sanke.cpp
+C:\Users\DELL\source\repos\Game_Snake\Game_Snake\myliv.h(30,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\DELL\source\repos\Game_Snake\Game_Snake\myliv.h(30,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\DELL\source\repos\Game_Snake\Game_Snake\Sanke.cpp(325,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game_Snake.vcxproj -> C:\Users\DELL\source\repos\Game_Snake\x64\Debug\Game_Snake.exe
